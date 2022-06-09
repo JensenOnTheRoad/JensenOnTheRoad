@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JensenOnTheRoad
 - 👀 I’m interested in runnning and road cycling.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me jendengdengwork@163.com
 
 <!---
